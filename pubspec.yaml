@@ -1,0 +1,25 @@
+name: flutter_form_bloc_example
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter: 
+    sdk: flutter
+  form_bloc: ^0.7.0
+  flutter_form_bloc:
+  bloc: ^3.0.0
+  flutter_bloc: ^3.0.0
+  shared_preferences: ^0.5.6
+  liquid_progress_indicator: ^0.3.2
+  rxdart: ^0.23.0
+  image_picker: ^0.6.2+3 
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

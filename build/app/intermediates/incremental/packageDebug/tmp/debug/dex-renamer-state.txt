@@ -1,0 +1,4 @@
+#Wed Jan 15 13:22:01 WAT 2020
+base.0=/Users/olamide/AndroidStudioProjects/flutter_form/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
